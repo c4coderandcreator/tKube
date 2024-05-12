@@ -17,7 +17,7 @@ const Navbar = () => {
   return (
     <>
       <div
-        className="navbar bg-white p-0 py-10 md:p-10"
+        className="navbar bg-white p-0 pb-10 sm:py-10 md:p-10"
         onClick={hideDropdowns}
       >
         <div className="navbar-start">
@@ -180,7 +180,7 @@ const Navbar = () => {
           </div>
           <Link to="/">
             <img
-              className="mx-4 w-48 h-16"
+              className=" w-56 h-20"
               src="https://raw.githubusercontent.com/c4coderandcreator/tKube/5450d691b55018be3fb4fa69aaf7e37b5d3d1dbe/Image%20Resource/Home%20Resources/Logo%20on%20White.svg"
               alt="logo"
             />

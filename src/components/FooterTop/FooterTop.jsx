@@ -33,13 +33,13 @@ const FooterTop = () => {
               </div>
             </div>
             <div className="md:pr-12 flex">
-              <Link to="about">
+              <Link to="../about">
                 <LearnMore />
               </Link>
 
               <div className=" navbar-end font-[Lufga-Regular-2] font-extrabold mx-4 flex">
                 <a className="btn text-white bg-[#001eee]">
-                  <Link to="contact">Contact Us </Link> {<Arrow />}
+                  <Link to="../contact">Contact Us </Link> {<Arrow />}
                 </a>
               </div>
             </div>

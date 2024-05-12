@@ -32,7 +32,7 @@ const Home = () => {
           applications.
         </p>
         <div className="items-center text-center flex flex-row justify-center pb-8">
-          <Link to="about" target="_blank">
+          <Link to="about">
             <button className="btn border-[#001eee] text-[#001eee] bg-white mx-2 font-[Lufga-Regular-2] font-extrabold hover:text-white">
               Know More{" "}
               <svg

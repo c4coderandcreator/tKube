@@ -18,27 +18,27 @@ const Footer = () => {
               Company
             </span>
             <Link to="about">
-              <li className="text-[0.7rem] md:text-[1rem] font-[Lufga-Light-2] mt-3 md:mt-8  pb-1 md:pb-4">
+              <li className="text-[0.75rem] md:text-[1rem] font-[Lufga-Light-2] mt-3 md:mt-8  pb-1 md:pb-4">
                 About Us
               </li>
             </Link>
             <Link to="careers">
-              <li className="text-[0.7rem] md:text-[1rem] font-[Lufga-Light-2] pb-1 md:pb-4">
+              <li className="text-[0.75rem] md:text-[1rem] font-[Lufga-Light-2] pb-1 md:pb-4">
                 Careers
               </li>
             </Link>
             <Link to="blog">
-              <li className="text-[0.7rem] md:text-[1rem] font-[Lufga-Light-2] pb-1 md:pb-4">
+              <li className="text-[0.75rem] md:text-[1rem] font-[Lufga-Light-2] pb-1 md:pb-4">
                 Blog
               </li>
             </Link>
             <Link to="privacy">
-              <li className="text-[0.7rem] md:text-[1rem] font-[Lufga-Light-2] pb-1 md:pb-4">
+              <li className="text-[0.75rem] md:text-[1rem] font-[Lufga-Light-2] pb-1 md:pb-4">
                 Privacy Policy
               </li>
             </Link>
             <Link to="terms">
-              <li className="text-[0.7rem] md:text-[1rem] font-[Lufga-Light-2] pb-1 md:pb-4">
+              <li className="text-[0.75rem] md:text-[1rem] font-[Lufga-Light-2] pb-1 md:pb-4">
                 Terms of Use
               </li>
             </Link>
@@ -50,17 +50,17 @@ const Footer = () => {
               Products
             </span>
             <Link to="managedKubernetes">
-              <li className="text-[0.7rem] md:text-[1rem] font-[Lufga-Light-2] mt-3 md:mt-8  pb-1 md:pb-4">
+              <li className="text-[0.75rem] md:text-[1rem] font-[Lufga-Light-2] mt-3 md:mt-8  pb-1 md:pb-4">
                 Managed Services for <br /> Kubernetes
               </li>
             </Link>
             <Link to="migrateToCloud">
-              <li className="text-[0.7rem] md:text-[1rem] font-[Lufga-Light-2] pb-1 md:pb-4">
+              <li className="text-[0.75rem] md:text-[1rem] font-[Lufga-Light-2] pb-1 md:pb-4">
                 Migrate to the Cloud
               </li>
             </Link>
             <Link to="customApi">
-              <li className="text-[0.7rem] md:text-[1rem] font-[Lufga-Light-2] pb-1 md:pb-4">
+              <li className="text-[0.75rem] md:text-[1rem] font-[Lufga-Light-2] pb-1 md:pb-4">
                 Custom API development <br />
                 services
               </li>
@@ -73,42 +73,42 @@ const Footer = () => {
               Services
             </span>
             <Link to="multiCloud">
-              <li className="text-[0.7rem] md:text-[1rem] font-[Lufga-Light-2] mt-3 md:mt-8  pb-1 md:pb-4">
+              <li className="text-[0.75rem] md:text-[1rem] font-[Lufga-Light-2] mt-3 md:mt-8  pb-1 md:pb-4">
                 Multi-Cloud
               </li>
             </Link>
             <Link to="devops">
-              <li className="text-[0.7rem] md:text-[1rem] font-[Lufga-Light-2] pb-1 md:pb-4">
+              <li className="text-[0.75rem] md:text-[1rem] font-[Lufga-Light-2] pb-1 md:pb-4">
                 DevOps
               </li>
             </Link>
             <Link to="kubernetes">
-              <li className="text-[0.7rem] md:text-[1rem] font-[Lufga-Light-2] pb-1 md:pb-4">
+              <li className="text-[0.75rem] md:text-[1rem] font-[Lufga-Light-2] pb-1 md:pb-4">
                 Kubernetes
               </li>
             </Link>
             <Link to="redHatOpenshift">
-              <li className="text-[0.7rem] md:text-[1rem] font-[Lufga-Light-2] pb-1 md:pb-4">
+              <li className="text-[0.75rem] md:text-[1rem] font-[Lufga-Light-2] pb-1 md:pb-4">
                 Red hat Openshift
               </li>
             </Link>
             <Link to="webApp">
-              <li className="text-[0.7rem] md:text-[1rem] font-[Lufga-Light-2] pb-1 md:pb-4">
+              <li className="text-[0.75rem] md:text-[1rem] font-[Lufga-Light-2] pb-1 md:pb-4">
                 Web App Development
               </li>
             </Link>
             <Link to="mobileApp">
-              <li className="text-[0.7rem] md:text-[1rem] font-[Lufga-Light-2] pb-1 md:pb-4">
+              <li className="text-[0.75rem] md:text-[1rem] font-[Lufga-Light-2] pb-1 md:pb-4">
                 Mobile App Development
               </li>
             </Link>
             <Link to="uiux">
-              <li className="text-[0.7rem] md:text-[1rem] font-[Lufga-Light-2] pb-1 md:pb-4">
+              <li className="text-[0.75rem] md:text-[1rem] font-[Lufga-Light-2] pb-1 md:pb-4">
                 UX/UI Design
               </li>
             </Link>
             <Link to="cyberSecurity">
-              <li className="text-[0.7rem] md:text-[1rem] font-[Lufga-Light-2] pb-1 md:pb-4 hover:shadow-inner ">
+              <li className="text-[0.75rem] md:text-[1rem] font-[Lufga-Light-2] pb-1 md:pb-4 hover:shadow-inner ">
                 Cyber Security
               </li>
             </Link>
@@ -119,8 +119,8 @@ const Footer = () => {
             <span className="text-[1.25rem] md:text-[1.5rem] font-[Lufga-Bold-2]">
               Contact Us
             </span>
-            <li className="text-[0.7rem] md:text-[1rem] font-[Lufga-Light-2] mt-3 md:mt-8  pb-1 md:pb-4"></li>
-            <li className="text-[0.7rem] md:text-[1rem] font-[Lufga-Light-2] pb-1 md:pb-4">
+            <li className="text-[0.75rem] md:text-[1rem] font-[Lufga-Light-2] mt-3 md:mt-8  pb-1 md:pb-4"></li>
+            <li className="text-[0.75rem] md:text-[1rem] font-[Lufga-Light-2] pb-1 md:pb-4">
               <div className="flex items-center gap-2">
                 <div className="">
                   <Mail />
@@ -130,7 +130,7 @@ const Footer = () => {
                 </div>
               </div>
             </li>
-            <li className="text-[0.7rem] md:text-[1rem] font-[Lufga-Light-2] pb-1 md:pb-4">
+            <li className="text-[0.75rem] md:text-[1rem] font-[Lufga-Light-2] pb-1 md:pb-4">
               <div className="flex items-center gap-2">
                 <div className="">
                   <Phone />
@@ -141,7 +141,7 @@ const Footer = () => {
                 </div>
               </div>
             </li>
-            <li className="text-[0.7rem] md:text-[1rem] font-[Lufga-Light-2] pb-1 md:pb-4">
+            <li className="text-[0.75rem] md:text-[1rem] font-[Lufga-Light-2] pb-1 md:pb-4">
               <div className="flex items-center gap-2">
                 <div className="">
                   <Phone />
@@ -151,7 +151,7 @@ const Footer = () => {
                 </div>
               </div>
             </li>
-            <li className="text-[0.7rem] md:text-[1rem] font-[Lufga-Light-2] pb-1 md:pb-4">
+            <li className="text-[0.75rem] md:text-[1rem] font-[Lufga-Light-2] pb-1 md:pb-4">
               <div className="flex items-center gap-2">
                 <div className="">
                   <Fax />
@@ -159,7 +159,7 @@ const Footer = () => {
                 <div>+1 (833) 832-5800</div>
               </div>
             </li>
-            <li className="text-[0.7rem] md:text-[1rem] font-[Lufga-Light-2] pb-1 md:pb-4">
+            <li className="text-[0.75rem] md:text-[1rem] font-[Lufga-Light-2] pb-1 md:pb-4">
               We are Social
               <div className="flex gap-2 md:gap-6 mt-2 md:mt-4">
                 <div>
